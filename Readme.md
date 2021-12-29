@@ -9,4 +9,4 @@ luego su oponente CPU escojera aleatoriamente una de las opciones y enfuncion a 
 opciones ingresadas agregara un punto a l marcador; asi, hasta llegar a las 5 rondas.
 Finalmente, el que tenga mayor puntuacion sera el ganador.
 
-<a href= 'https://asanchezg96.github.io/Proyect_Rock_Paper_Scissor_Odin/'>  Juega gratis aqui </a>
+<a href= 'https://asanchezg96.github.io/Proyect_Rock_Paper_Scissor_Odin/index.html'>  Juega gratis aqui </a>
